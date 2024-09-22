@@ -17,7 +17,6 @@ Here's a list of the technologies I work with regularly:
 Languages: C#, Python, Java
 Frameworks: .NET, Spring 
 Tools: Visual Studio, Visual Studio code, Azure DevOps
-🚀 My GitHub Stats: ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HadiAtwi&show_icons=true&hide_border=true&theme=radical)
 
 
 📊 Languages Used: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiAtwi&layout=compact&hide_border=true&theme=radical)
