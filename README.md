@@ -9,9 +9,8 @@ Welcome to my GitHub profile! Here's a little about me:
 💬 Ask me about: .NET development, Neural networks, and Machine learning models.
 ⚡ Fun fact: I like to play ultimate frisbee in my free time.
 💼 Current Work:
-[Project 1 Name] - [Brief description or purpose of the project. Link to the repo if it's public].
-[Project 2 Name] - [Brief description or purpose of the project. Link to the repo if it's public].
-[Any other noteworthy project].
+Classifying Simulink model results using machine learning - This is a project for my master's thesis. I take Simulink model results and transform them into input suitable for machine learning classification. https://github.com/HadiAtwi/simulink-graph2vec-classifier.git
+Portfolio website - Currently developing a portfolio website using React. Link: TBD
 🛠 Tech Stack & Tools:
 Here's a list of the technologies I work with regularly:
 
