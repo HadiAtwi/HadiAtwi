@@ -2,7 +2,7 @@ Hi there, I'm Hadi Atwi! 👋
 Welcome to my GitHub profile! Here's a little about me:
 
 👨‍💻 About Me:
-🔭 I’m currently working on: Portfolio Website - I'm catching up with React as I haven't used it in a while so I thought a fun project would be to create my own website.
+🔭 I’m currently working on: Food Connect Application - An app that connects grocery stores with NGOs to distribute almost expired items to people in need. 
 🌱 I’m currently learning: React and Spring framework.
 👯 I’m looking to collaborate on: I'm open to collaboration on a full stack application regarding food waste that I plan to develop soon. 
 🤔 I’m looking for help with: If you're a Spring framework expert I can use some help with the architecture of an upcoming project.
