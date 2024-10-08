@@ -25,7 +25,7 @@ Tools: Visual Studio, Visual Studio code, Azure DevOps
 📫 How to reach me:
 Email: atwi.hadi@outlook.com  
 LinkedIn: www.linkedin.com/in/hadi-atwi
-Website/Portfolio: TBD
+
 
 
 ✨ Fun Projects:
